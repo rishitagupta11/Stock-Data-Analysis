@@ -1,1 +1,1 @@
-# Stock-Data-Analysis
+ In this project the data has been imported, cleaned, and processed in Excel, ensuring accuracy and readiness for analysis. The capabilities of Power BI have been explored for crafting insightful visualizations.
